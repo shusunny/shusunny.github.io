@@ -1,6 +1,6 @@
 # Basic
 title: Sun Home
-subtitle: Welcome to my Homepage
+subtitle: Welcome to my Home
 # welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: 欢迎来到Sunny的小窝
 creator: <a href="http://shusunny.github.io">@sunny</a>
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: 
+cover_color: green
 
 # The blog button should not be removed.
 blog_button:
