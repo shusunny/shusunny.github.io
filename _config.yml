@@ -1,6 +1,6 @@
 # Basic
 title: Sun Home
-subtitle: Welcome to my Home
+subtitle: Welcome to my Homepage
 # welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: 欢迎来到Sunny的小窝
 creator: <a href="http://shusunny.github.io">@sunny</a>
@@ -40,7 +40,7 @@ social:
     weibo: shusunny
     github: shusunny
     twitter: sunzhen35
-    gplus: 107108267983477358170
+   # gplus: 107108267983477358170
     mail: sunzhen1135@gmail.com
 
 # Google Analytics
