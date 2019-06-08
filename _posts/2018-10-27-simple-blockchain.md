@@ -319,11 +319,11 @@ import (
 ```go
 go run simple-blockchain.go 
 ```
-![go run program]({{ site.github.url }}/assets/img/terminal-block.png "go-run-program")
+[![go run program](https://shusunny.github.io/assets/images/terminal-block.png "go-run-program")](https://shusunny.github.io/assets/images/terminal-block.png))
 
 现在我们打开 [localhost:3000](http://localhost:3000)，就能看到已经有一个创始块了
 
-![genesis-block]({{ site.github.url }}/assets/img/genesis-block.png "genesis-block")
+[![genesis-block](https://shusunny.github.io/assets/images/genesis-block.png "genesis-block")](https://shusunny.github.io/assets/images/genesis-block.png)
 
 现在让我们添加一本新书。打开一个新的terminal，用cURL方式输入以下指令：
 

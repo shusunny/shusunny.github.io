@@ -132,7 +132,7 @@ func main() {
 ```
 写完后我们点击**格式化（Format）**，程序就可以自动引入所需要的包，并且帮我们规范程序代码，使每个人的程序都非常规范！运行，我们就会得到和上次一样的图像
 
-![]({{ site.github.url }}/assets/img/slice_solution.png "x+y/2图像")
+![](https://shusunny.github.io/assets/images/slice_solution.png "x+y/2图像")
 
 ---
 以上就是Go语言方法和接口部分的练习。Go Tour的所有练习代码都可以在我的[Github Repo Go-tour-solutions](https://github.com/shusunny/Go-Practice/tree/master/Go-tour-solutions)中找到。

@@ -49,7 +49,7 @@ func main() {
 
 运行程序可以得到256px*256px的图片，如下图所示
 
-![]({{ site.github.url }}/assets/img/slice_solution.png "x+y/2图像")
+[![](https://shusunny.github.io/assets/images/slice_solution.png "x+y/2图像")](https://shusunny.github.io/assets/images/slice_solution.png)
 
 有兴趣的同学还可以查看我们载入包[golang.org/x/tour/pic](https://godoc.org/golang.org/x/tour/pic)中的内容，以及其中的[pic程序](https://github.com/golang/tour/blob/master/pic/pic.go)的有关代码，深入地了解上面的图片是如何生成的。
 

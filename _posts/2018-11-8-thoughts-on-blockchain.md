@@ -41,7 +41,7 @@ ETH不仅为大家带来了合约，更带来了区块链融资的风潮，他�
 
 2017年初到现在的加密货币市值图（数据来源[coinmarketcap.com](https://coinmarketcap.com/charts/)）
 
-[![](https://shusunny.github.io/sunnyblog/assets/img/totalmarketcap.png)](https://shusunny.github.io/sunnyblog/assets/img/totalmarketcap.png)
+[![](https://shusunny.github.io/assets/image/totalmarketcap.png)](https://shusunny.github.io/assets/image/totalmarketcap.png)
 
 是泡沫，总会有破裂的那天。就像1998年亚洲金融危机，2008年美国次贷危机，金融市场似乎并不喜欢以8结尾的年份。随着2018年1月ETH达到峰值开始，整个币圈开始进入下行通道并进行资产清算。以比特币为代表的加密货币从年初的8000亿美元市值不断滑落到如今比较稳定的2000亿市值左右。作为参考17年初整个加密货币市值为200亿，而在以此为标准的合理推论下，明年调整到1000亿市值也是有可能的。在吹泡沫阶断，更多人看到的是钱的增长，而非技术，所以才会乱象丛生，才会有暴涨暴跌。而加密货币的价值，更多的应该与用户的数量相关，或者说正比于用户数量的平方，即（marketcap ≈ users^2）。最近的数据表明，区块链（blockchain）的搜索量已经超越了比特币或者加密货币（cryptocurrency）。这也表示着更多的人从暴富的梦中醒来，开始关注更加底层的技术环节，开始思考区块链技术能为我们带来什么。
 
