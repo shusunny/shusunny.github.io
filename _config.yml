@@ -1,8 +1,8 @@
 # Basic
-title: Sun Home
-subtitle: Welcome to my Homepage
-# welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: 欢迎来到Sunny的小窝
+title: shusunny.io
+subtitle: 
+welcome_message: <a href="https://shusunny.github.io/sunnyblog" target="_blank">Tech Blog</a>
+description: 本博主要记录我个人的生活点滴，更多代码类博文请查看下面的Tech Blog
 creator: <a href="http://shusunny.github.io">@sunny</a>
 
 url: "https://shusunny.github.io"
@@ -17,13 +17,14 @@ cover_color: red
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
+    title: 博客
     description: Visit blog
 
 # Navigation buttons in the front page.
 nav:
     # - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     - {title: Resume, description: Resume, url: 'https://shusunny.github.io/resume'}
+    - {title: Tech Blog, description: Tech Blog, url: 'https://shusunny.github.io/sunnyblog'}
 
 # Pagination
 gems: [jekyll-paginate]
@@ -45,5 +46,5 @@ social:
 
 # Google Analytics
 ga:
-    # id: your_ga_id
+    id: UA-127400832-3
     # host: your_host
